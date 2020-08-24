@@ -22,7 +22,7 @@ function getSelectedCityId(e){
         let cityName = e.target.innerText;
         
         getCityWeather(cityId).then((data)=>{
-            console.log(data);
+            // console.log(data);
             updateUI(cityName,data);
             setImg(data);
             setIcon(data);

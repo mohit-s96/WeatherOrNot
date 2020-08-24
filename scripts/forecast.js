@@ -1,4 +1,4 @@
-let key = 'DummyKey Get Yours at  https://developer.accuweather.com/';
+let key = 'ayfHUntf4qJS7CA4GDChutnc3Z07fAH3';
 let url = 'http://dataservice.accuweather.com';
 
 const input = document.querySelector('#input');

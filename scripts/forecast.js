@@ -1,4 +1,4 @@
-let key = 'ayfHUntf4qJS7CA4GDChutnc3Z07fAH3';
+let key = 'iF9XO7x4yIqfEpNxKkig0qBf21ZEAoDA';
 let url = 'https://dataservice.accuweather.com';
 
 const input = document.querySelector('#input');
